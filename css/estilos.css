@@ -9,6 +9,10 @@ header {
   padding: 20px;
 }
 
+.servicios {
+  background: rgb(122, 90, 63);
+}
+
 footer {
   background: #333;
   padding: 20px;
