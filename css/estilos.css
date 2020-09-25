@@ -3,3 +3,8 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+header {
+  background: green;
+  padding: 20px;
+}
